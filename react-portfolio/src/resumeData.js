@@ -1,60 +1,60 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"",
     "name": "Chelsey McKinney",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "role": "Frontend Developer",
+    "linkedinId":"", //upgrade to LinkedIn pro...
+    //"skypeid": "Your skypeid",
+    "roleDescription": "Frontend developer who loves mysteries and learning new things",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/camckin10",
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "name":"twitter",
+          "url":"https://twitter.com/TechChelsey",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"",
+    "address":"United States",
+    "website":"www.chelseymckinney.com",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"University of Minnesota",
+        "specialization":"Full Stack Coding Certificate",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2018",
+        "Achievements":"Studied the MERN(Mongo,Express, React, and Node) Stack."
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Earlham College",
+        "specialization":"B.A in Comparative Languages and Linguistics",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2014",
+        "Achievements":"Studied Linguistics"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Minneapolis Public Schools",
+        "specialization":"GEAR UP Site Coordinator",
+        "MonthOfLeaving":"March - Current",
+        "YearOfLeaving":"2015",
+        "Achievements":"Currently develop and incorporate processes to assist students in applying for colleges. Coordinated college visits for assigned high schools. Managed fellow site coordinators during supervisor maternity leave. Collect and log weekly and monthly paperwork required for grant."
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
+        "CompanyName":"Software For Good",
+        "specialization":"Software Engineer Intern",
+        "MonthOfLeaving":"August",
         "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":"Developed a Ruby on Rails app to help promote volunteering opportunities. Learned the basics of Ruby on Rails and Redux."
       }
     ],
     "skillsDescription":"Your skills here",
@@ -63,10 +63,19 @@ let resumeData = {
         "skillname":"HTML5"
       },
       {
-        "skillname":"CSS"
+        "skillname":"CSS3"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"Javascript(ES5/ES6)"
+      },
+      {
+        "skillname":"ReactJS"
+      },
+      {
+        "skillname":"Git/Github"
+      },
+      {
+        "skillname":"Bootstrap4"
       }
     ],
     "portfolio":[
